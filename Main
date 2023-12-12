@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Kloud Standard Token (KST) Documentation</title>
+    <style>
+        /* Your CSS styles can go here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        /* Add more CSS for styling */
+    </style>
+</head>
+
+<body>
+    <h1>Kloud Standard Token (KST) Documentation</h1>
+
+    <section>
+        <h2>Purpose</h2>
+        <ul>
+            <li><strong>Transaction Facilitation:</strong> KST facilitates transactions and covers fees within the Kloudspace Hub platform.</li>
+            <li><strong>Fee Coverage:</strong> It covers fees for minting DST20 tokens and NFTs.</li>
+            <li><strong>Inter-Chain Bridge:</strong> Enables seamless transactions across various blockchain networks, including Polygon.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>DST20 Compliance:</strong> Ensures compatibility and security within the DeFichains ecosystem.</li>
+            <li><strong>Layer 2 Protocol:</strong> Operates efficiently with reduced costs and increased scalability.</li>
+            <li><strong>Multi-Chain Compatibility:</strong> Works across various blockchain networks, notably Polygon.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Use Cases</h2>
+        <ul>
+            <li><strong>Transaction Payments:</strong> Used to pay for services, products, or transactions.</li>
+            <li><strong>Token Creation:</strong> Covers fees for minting new tokens and NFTs.</li>
+            <li><strong>Cross-Chain Transactions:</strong> Facilitates smooth asset transfers across different chains.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Future Developments</h2>
+        <p>The development team aims to enhance utility, scalability, and interoperability for KST.</p>
+    </section>
+
+    <section>
+        <h2>Conclusion</h2>
+        <p>Kloud Standard Token (KST) is a fundamental element within Kloudspace Hub, facilitating transactions, covering fees, enabling token creation, and promoting cross-chain interoperability.</p>
+    </section>
+
+    <!-- Your JavaScript code can be added here, if needed -->
+
+</body>
+
+</html>
